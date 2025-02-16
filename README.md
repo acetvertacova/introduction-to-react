@@ -31,31 +31,7 @@ Familiarize yourself with the basics of JSX and create basic React components, i
 
 ### Project Structure
 
-ll_01/
-├── node_modules/          
-├── public/               
-├── src/                  
-│   ├── assets/          
-│   ├── components/      
-│   │   ├── Artilce/    
-│   │   │   ├── Article.jsx
-│   │   │   └── ArticleList.jsx
-│   │   ├── ArtilceArray/    
-│   │   │   ├── ArticleArray.jsx
-│   │   │   └── ArticleListUsingArray.jsx
-│   │   ├── Footer.jsx      
-│   │   └── Header.jsx      
-│   ├── App.css            
-│   ├── App.jsx            
-│   ├── index.css          
-│   └── main.jsx           
-├── .gitignore            
-├── eslint.config.js      
-├── index.html            
-├── package-lock.json     
-├── package.json          
-├── README.md            
-└── vite.config.js       
+<img src="">    
 
 ## Usage Examples
 
