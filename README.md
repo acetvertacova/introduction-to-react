@@ -27,12 +27,6 @@
 
 Familiarize yourself with the basics of JSX and create basic React components, including a page header, footer, articles, and an article list, then combine them into a single React application.
 
-## Project Documentation
-
-### Project Structure
-
-<img src="">    
-
 ## Usage Examples
 
 1. **Basic Article Component (Article.jsx):** This is a simple reusable component that displays an article with a title and text. It uses props destructuring to accept title and text parameters.
