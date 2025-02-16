@@ -2,7 +2,7 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import './App.css'
 import ArticleList from './components/Artilce/ArticleList'
-import ArticleListArray from './components/ArtilceArray/ArticleListUsingArray'
+import ArticleListUsingArray from './components/ArtilceUsingArray/ArticleListUsingArray'
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
     <Header />
     <ArticleList />
     -------------------------------------------------------------------------------------------------------
-    <ArticleListArray />
+    <ArticleListUsingArray />
     <Footer />
   </>
     )
