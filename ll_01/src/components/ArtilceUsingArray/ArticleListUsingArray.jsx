@@ -1,4 +1,4 @@
-import ArticleArray from "./ArticleArray"
+import ArticleUsingArray from "./ArticleUsingArray"
 
 export default function ArticleListUsingArray() {
     
@@ -22,6 +22,6 @@ export default function ArticleListUsingArray() {
     ]
 
     return(
-        <ArticleArray articles={articles} />
+        <ArticleUsingArray articles={articles} />
     )
 }

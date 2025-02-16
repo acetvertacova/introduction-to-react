@@ -1,4 +1,4 @@
-export default function ArticleArray({articles}) {
+export default function ArticleUsingArray({articles}) {
 
     return (
       <article>
