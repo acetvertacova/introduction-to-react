@@ -1,4 +1,4 @@
-import ArticleArray from "./ArticleUsingArray"
+import ArticleArray from "./ArticleArray"
 
 export default function ArticleListArray() {
     
