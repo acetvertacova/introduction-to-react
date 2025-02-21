@@ -2,7 +2,7 @@
 
 ## Installation and Project Launch Instructions
 
-### Step 1: Setting up the working environment
+### Setting up the working environment
 
 1. Download and install the latest or stable version of **Node.js**.
 
@@ -11,15 +11,6 @@
     `node -v`
     
     `npm -v`
-
-### Step 2: Setting up a new React project with Vite.
-
-1. In terminal run the following command: `npm create vite@latest my-app`.
-
-2. Choose:
-
-   **Framework:** React
-   **Variant:** JavaScript
 
 3. Navigate to the project folder and start the development server with `npm run dev`.
 
